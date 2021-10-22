@@ -47,6 +47,7 @@ namespace DAY_8_Assignment8
             for (int i = 0; i < d; i++)
             {
                 Console.Write("  ");
+
             }
 
             for (int i = 1; i <= days[month]; i++)
